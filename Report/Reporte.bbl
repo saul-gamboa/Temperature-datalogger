@@ -1,0 +1,56 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Badhiye%
+, V~Chatur%
+\BCBL {}\ \BBA {}  %
+}{%
+Badhiye%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Badhiye}
+\APACinsertmetastar {%
+Badhiye}%
+\begin{APACrefauthors}%
+Badhiye, S.%
+, V~Chatur, B.%
+\BCBL {}\ \BBA {} W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{01}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Data Logger System: A Survey} {Data logger system: A
+  survey}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{2249-6343}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goyal%
+\ \BBA {} Malhotra%
+}{%
+Goyal%
+\ \BBA {} Malhotra%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+goyaldata}
+\APACinsertmetastar {%
+goyaldata}%
+\begin{APACrefauthors}%
+Goyal, M.%
+\BCBT {}\ \BBA {} Malhotra, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {DATA LOGGER SYSTEM: A SURVEY} {Data logger system: A
+  survey}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
